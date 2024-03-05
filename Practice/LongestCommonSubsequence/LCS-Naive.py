@@ -13,6 +13,5 @@ if __name__ == "__main__":
     print(lcs(A,B,len(A),len(B)))
 
 
-
 # Expected result : 5
     
