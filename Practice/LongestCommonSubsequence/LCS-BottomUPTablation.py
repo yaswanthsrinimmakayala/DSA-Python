@@ -14,7 +14,6 @@ def LCS_T(A,B):
 
     return LCS[m-1][n-1]
 
-
 if __name__=="__main__":
     A = "INTENTION"
     B = "EXECUTION"
